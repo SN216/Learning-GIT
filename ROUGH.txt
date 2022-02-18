@@ -1,0 +1,2 @@
+This is the first rough work of my Git Classes.
+I want this to go into 2nd git commit.
